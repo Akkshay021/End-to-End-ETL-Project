@@ -44,6 +44,12 @@ The dataset used in this project is sourced from Kaggle: [Retail Orders Dataset]
   - zipfile
 - SQL Server with ODBC Driver 17 for SQL Server
 
+## Key Features
+- Demonstrates the end-to-end ETL process.
+- Highlights the integration of Python and SQL for data engineering tasks.
+- Provides examples of data cleaning, transformation, and loading.
+- Includes SQL scripts to analyze retail order data.
+
 ## SQL Table Schema
 ```sql
 CREATE TABLE df_orders (
@@ -66,8 +72,4 @@ CREATE TABLE df_orders (
 );
 
 
-## Key Features
-Demonstrates the end-to-end ETL process.
-Highlights the integration of Python and SQL for data engineering tasks.
-Provides examples of data cleaning, transformation, and loading.
-Includes SQL scripts to analyze retail order data.
+
